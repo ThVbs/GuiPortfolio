@@ -16,6 +16,9 @@ body {
 
 }
 
+a{
+    z-index: 1;
+}
 
 /* HEADER */
 
